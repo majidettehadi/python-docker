@@ -1,6 +1,6 @@
 FROM majid7221/debian:stretch
 
-ENV PYTHON_VERSION 3.7.5
+ENV PYTHON_VERSION 3.7.6
 
 # ensure local python is preferred over distribution python
 ENV PATH /usr/local/bin:$PATH
